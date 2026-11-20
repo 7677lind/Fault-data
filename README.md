@@ -1,0 +1,1 @@
+Data and Code Availability: The datasets for the Sallen–Key and current monitoring circuits, together with the Python code for the current monitoring circuit, are publicly available at https://github.com/7677lind/Fault-data.
